@@ -1,7 +1,7 @@
 # Hospital-Management-System-CPP-Mini-Project
 This repository contains a Hospital Management System implemented in C++, utilizing various concepts of object-oriented programming (OOP). The system offers a range of features to effectively manage hospital operations and patient information.
 
-Features:
+Features: 
 
 - Add Patient's Information: The system allows users to add patient details such as name, address, age, gender, assigned ward, doctor, and bed assignment. This feature ensures comprehensive patient record-keeping.
 
